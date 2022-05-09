@@ -1,0 +1,16 @@
+D:\bootcamp NET\challenge4\bin\Debug\net5.0\challenge4.exe
+D:\bootcamp NET\challenge4\bin\Debug\net5.0\challenge4.deps.json
+D:\bootcamp NET\challenge4\bin\Debug\net5.0\challenge4.runtimeconfig.json
+D:\bootcamp NET\challenge4\bin\Debug\net5.0\challenge4.runtimeconfig.dev.json
+D:\bootcamp NET\challenge4\bin\Debug\net5.0\challenge4.dll
+D:\bootcamp NET\challenge4\bin\Debug\net5.0\ref\challenge4.dll
+D:\bootcamp NET\challenge4\bin\Debug\net5.0\challenge4.pdb
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\challenge4.csproj.AssemblyReference.cache
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\challenge4.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\challenge4.AssemblyInfoInputs.cache
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\challenge4.AssemblyInfo.cs
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\challenge4.csproj.CoreCompileInputs.cache
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\challenge4.dll
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\ref\challenge4.dll
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\challenge4.pdb
+D:\bootcamp NET\challenge4\obj\Debug\net5.0\challenge4.genruntimeconfig.cache
